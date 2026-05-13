@@ -3,7 +3,7 @@
 ## Overview
 
 **CL2006 Operating Systems Lab — Semester Project (Spring 2026)**
-**Student**: Ahsan Shafqat and Abdul Aziz Irzam
+**Student**: Abdul Aziz Irzam
 
 A system-level C simulation of hospital emergency-room operations exercising core OS concepts: **process management**, **inter-process communication (IPC)**, **CPU scheduling**, **thread synchronization**, and **memory allocation**.
 
