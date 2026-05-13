@@ -1,0 +1,18 @@
+# Compiled binaries
+admissions_manager
+patient_simulator
+*.o
+*.exe
+
+# Log files
+*.log
+logs/
+memory_log.txt
+schedule_log.txt
+
+# Data files
+patient_records.dat
+
+# OS files
+.DS_Store
+Thumbs.db
